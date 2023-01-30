@@ -4,11 +4,6 @@
     padding: 0;
 }
 
-/* html 
-{
-    background-image: linear-gradient(to bottom left, rgb(207, 243, 255), rgb(18, 105, 163));
-} */
-
 .webgl
 {
     position: fixed;
